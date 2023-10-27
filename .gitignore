@@ -1,0 +1,17 @@
+# Node.js / npm
+node_modules/
+
+# Build output
+/dist/
+/public/dist/
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+
+# Log files
+yarn-debug.log*
+
+# OS generated files
+.DS_Store
