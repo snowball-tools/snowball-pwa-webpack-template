@@ -4,7 +4,7 @@
   "description": "snowball pwa webpack template",
   "main": "index.js",
   "author": "Snowball Tools Inc.",
-  "license": "LGPL-3.0-or-later",
+  "license": "MIT",
   "private": false,
   "scripts": {
     "dev": "webpack-dev-server --open --mode development",
