@@ -1,7 +1,7 @@
 {
-  "name": "snowball-pwa-template",
-  "short_name": "snowball-pwa",
-  "description": "snowball tools template app",
+  "name": "snowball-pwa-webpack-template",
+  "short_name": "snowball",
+  "description": "snowball tools webpack template app",
   "theme_color": "#3390ff",
   "background_color": "#ffffff",
   "display": "standalone",
